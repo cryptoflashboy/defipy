@@ -44,7 +44,7 @@ setup(name='DeFiPy',
       install_requires=[
         'scipy >= 1.7.3', 
         'pydantic >= 2.11.0',
-        'bokeh == 3.3.4',  
+        'bokeh == 3.8.2',  
         'uniswappy >= 1.7.4', 
         'stableswappy >= 1.0.3',
         'balancerpy >= 1.0.4'  
